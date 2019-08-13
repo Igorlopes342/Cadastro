@@ -1,0 +1,43 @@
+{
+    "user":[{
+        "id": 1,
+        "name": "Igor Lopes",
+        "email": "igorlopes@gmail.com"
+    }, {
+        "id": 2,
+        "name": "Jose da Silva",
+        "email": "josesilva@outlook.com"
+    }, {
+        "id": 3,
+        "name": "Marinho Pereira",
+        "email": "marinho@gmail.com"
+    }, {
+        "id": 4,
+        "name": "João Ferreira",
+        "email": "ferrreira@gmail.com"
+    }, {
+        "id": 5,
+        "name": "Maria Clara Oliveira",
+        "email": "clara@hotmail.com"  
+    }, {
+        "id": 6,
+        "name": "Júlia Marques",
+        "email": "julia@outlook.com"    
+    }, {
+        "id": 7,
+        "name": "Karina Vaz",
+        "email": "karinavaz@gmail.com"
+    }, {
+        "id": 8,
+        "name": "Vitor Ferraz",
+        "email": "ferraz@gmail.com"
+    }, {
+        "id": 9,
+        "name": "Daniel Vicente",
+        "email": "danivicente@outlook.com"
+    }, {
+        "id": 10,
+        "name": "Mariana Gonçalves",
+        "email": "mariana@gmail.com"                
+    }]
+ }
